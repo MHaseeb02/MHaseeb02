@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
 <h3 align="center">A passionate Computer Science Student.</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/15064744-Man-Coding-On-Laptop-Vector-Illustration/attachments/6792869?mode=media](https://cdn.dribbble.com/users/6449299/screenshots/15064744/media/b078e15318452dd23fa55f8f2c798fbb.jpg)">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47knboe72dm18r905ji0zllyhh7x2eega7hirbo24y&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Multiple Projects**
 
