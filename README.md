@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
 <h3 align="center">A passionate Computer Science Student.</h3>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15064744-Man-Coding-On-Laptop-Vector-Illustration/attachments/6792869?mode=media">
 
 - 🔭 I’m currently working on **Multiple Projects**
 
