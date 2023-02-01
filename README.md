@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
 <h3 align="center">A passionate Computer Science Student.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47knboe72dm18r905ji0zllyhh7x2eega7hirbo24y&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47rkeyfbdt0aysfgbqpv0eh2aewjetfy1rw700xq93&rid=giphy.gif&ct=s">
 
 - 🔭 I’m currently working on **Multiple Projects**
 
